@@ -1,0 +1,17 @@
+{
+    "database": "languages.db",
+    "version": 1,
+    "encrypted": false,
+    "mode": "full",
+    "tables": [
+        {
+            "name": "languages",
+            "schema": [
+                {
+                    "column": "name",
+                    "value": "TEXT NOT NULL PRIMARY KEY"
+                }
+            ]
+        }
+    ]
+}

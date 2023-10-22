@@ -1,0 +1,7 @@
+{
+  "name": "crud-sqlite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
